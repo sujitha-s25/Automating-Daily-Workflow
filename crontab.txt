@@ -1,0 +1,4 @@
+00 00 * * 1-5 /home/sujitha/coding/daily_workflow.sh start
+00 00 * * 1-5 /home/sujitha/coding/daily_workflow.sh lunch
+00 00 * * 1-5 /home/sujitha/coding/daily_workflow.sh end
+
